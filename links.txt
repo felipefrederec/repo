@@ -1,0 +1,10 @@
+https://www.online-python.com/
+https://vscode.dev/
+
+
+
+https://wiki.python.org.br/EstruturaDeDecisao
+
+https://wiki.python.org.br/EstruturaDeRepeticao
+
+https://wiki.python.org.br/ExerciciosFuncoes
